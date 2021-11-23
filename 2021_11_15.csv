@@ -1,6 +1,19 @@
 ,Date,project,StartHour,End Hour,Work Hour,Total week,Description
-0,15-11-2021,Tonstein Band Detection,09:00,13:00,4:0,4.0,Testing and Memory leak detection
-1,16-11-2021,Tonstein Band Detection,09:00,17:15,8:15,12.25,"Reporting, Penny band test, and Image creation "
-2,17-11-2021,Tonstein Band Detection,09:00,13:00,4:0,16.25,"Meeting, Reporting, image extraction"
-3,17-11-2021,MadPulseWPDT,13:30,16:00,2:30,18.75,"Breffing, setup"
-4,17-11-2021,Tonstein Band Detection,16:00,18:15,2:15,21.0,Images for Tim
+0,15/11/2021,Tonstein Band Detection,09:00,13:00,04:00,4,Testing and Memory leak detection
+1,16/11/2021,Tonstein Band Detection,09:00,17:15,08:15,12.25,"Reporting, Penny band test, and Image creation "
+2,17/11/2021,Tonstein Band Detection,09:00,13:00,04:00,16.25,"Meeting, Reporting, image extraction"
+3,17/11/2021,MadPulseWPDT,13:30,16:00,02:30,18.75,"Breffing, setup"
+4,17/11/2021,Tonstein Band Detection,16:00,18:15,02:15,21,Images for Tim
+5,18/11/2021,Tonstein Band Detection,09:00,09:30,00:30,21.5,Webpage setup
+6,18/11/2021,Visit site,09:30,12:00,02:30,24,Visit CMS site cameron park
+7,18/11/2021,Tonstein Band Detection,12:30,13:30,01:00,25,Webpage run and up
+8,18/11/2021,Tonstein Band Detection,13:30,13:45,00:15,25.25,Webpage up and run
+9,18/11/2021,MadPulseWPDT,13:45,17:00,03:15,28.5,Board setup
+10,18/11/2021,Tonstein Band Detection,17:00,17:15,00:15,28.75,Images for tim
+11,18/11/2021,MadPulseWPDT,17:15,17:45,00:30,29.25,Board Setup
+12,18/11/2021,Tonstein Band Detection,17:45,18:00,00:15,29.5,Images for tim
+13,19/11/2021,Tonstein Band Detection,09:30,12:15,02:45,32.25,Webpage fixing
+14,19/11/2021,Tonstein Band Detection,13:15,18:15,05:00,37.25,Webpage fixing
+15,19/11/2021,Tonstein Band Detection,18:15,18:15,00:00,37.25,Web page
+16,19/11/2021,Tonstein Band Detection,18:15,18:30,00:15,37.5,Web page
+,,Bank,,,00:30,0.5,
