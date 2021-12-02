@@ -3,17 +3,19 @@
 1,23/11/2021,MudPulseWPDT,09:15,12:30,03:15,11.75,Setup second board
 2,23/11/2021,MudPulseWPDT,13:00,13:45,00:45,12.5,Board setup
 3,23/11/2021,Calibration image,13:45,14:30,00:45,13.25,Measure pixels on reference graph
-4,23/11/2021,Volt training,14:30,15:15,00:45,14.0,Volt training on btightspark
+4,23/11/2021,Volt training,14:30,15:15,00:45,14,Volt training on btightspark
 5,23/11/2021,MudPulseWPDT,15:15,18:00,02:45,16.75,Setting up software
-6,24/11/2021,Tonstein band detection,09:00,10:15,01:15,18.0,Fixed web page
+6,24/11/2021,Tonstein band detection,09:00,10:15,01:15,18,Fixed web page
 7,24/11/2021,MudPulseWPDT,10:15,13:00,02:45,20.75,Tried to reset firmware
 8,25/11/2021,MudPulseWPDT,09:30,12:00,02:30,23.25,Settingup two boards parallel
-9,25/11/2021,Meeting,12:00,12:45,00:45,24.0,HSEQ meeting monthly
-10,25-11-2021,Training,12:45,13:00,0:15,24.25,Whistle BLower policy
-11,25-11-2021,MudPulseWPDT,13:00,16:00,3:0,27.25,Successfully established communication between boards
-12,25-11-2021,Tonstein band detection,16:00,17:30,1:30,28.75,Webpage update
-13,25-11-2021,MudPulseWPDT,17:30,18:00,0:30,29.25,Check boards and errors and bitrate
-14,26-11-2021,Tonstein band detection,09:30,11:00,1:30,30.75,Website fixed
-15,26-11-2021,MudPulseWPDT,11:00,12:00,1:0,31.75,Error investigation
-16,24-11-2021,MudPulseWPDT,13:30,17:30,4:0,35.75,Fixed boards with Adrian
-17,26-11-2021,MudPulseWPDT,13:00,17:00,4:0,39.75,Setting up boards
+9,25/11/2021,Meeting,12:00,12:45,00:45,24,HSEQ meeting monthly
+10,25/11/2021,Training,12:45,13:00,00:15,24.25,Whistle BLower policy
+11,25/11/2021,MudPulseWPDT,13:00,16:00,03:00,27.25,Successfully established communication between boards
+12,25/11/2021,Tonstein band detection,16:00,17:30,01:30,28.75,Webpage update
+13,25/11/2021,MudPulseWPDT,17:30,18:00,00:30,29.25,Check boards and errors and bitrate
+14,26/11/2021,Tonstein band detection,09:30,11:00,01:30,30.75,Website fixed
+15,26/11/2021,MudPulseWPDT,11:00,12:00,01:00,31.75,Error investigation
+16,24/11/2021,MudPulseWPDT,13:30,17:30,04:00,35.75,Fixed boards with Adrian
+17,26/11/2021,MudPulseWPDT,13:00,17:00,04:00,39.75,Setting up boards
+,,,,,,,
+,,Bank,,,,-1.75,
